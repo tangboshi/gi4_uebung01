@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# gin4
+# Übung 1
+
+Alexander Pastor & Sebastian Kaster
+
 =======
 # Übung 1: C-Programme und Shell-Kommandos
 
